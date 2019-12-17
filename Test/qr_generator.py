@@ -4,6 +4,7 @@ Created on Tue Dec 17 17:53:43 2019
 
 @author: paulj
 """
+# Some sample output here: https://github.com/p-j-r/voter-verification/issues/1#issue-539113485
 import os
 import qrcode
 from random import randint,choice
